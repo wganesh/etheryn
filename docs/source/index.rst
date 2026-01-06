@@ -18,5 +18,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   01-start-before-the-vision
+   02-executive-vision

@@ -1,5 +1,5 @@
-Usage
-=====
+Executive Vision
+================
 
 .. _installation:
 
